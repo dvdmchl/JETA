@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jeta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jeta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

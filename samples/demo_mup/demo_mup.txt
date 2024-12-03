@@ -1,0 +1,265 @@
+NAME Demo MuP
+
+MIESTO start
+
+ZMEN :kluc 0
+
+REM hodnoty kluca :
+REM 0 - kluc je u mrtvoly
+REM 1 - kluc vypadol z vrecka mrtvoli
+REM 3 - mas kluc v inventari
+REM 4 - pouzil si kluc na otvorenie dveri
+
+SETMENUCOLOR 255 255 0
+
+SOUND sound.mid
+SHOWIMAGE MuPimage.GIF
+
+SETTEXTCOLOR 0 255 0 
+
+OUT námestí TGM
+OUT Havírov
+OUT 23:41, 10. dubna 199?
+OUT
+OUT  Policista pomalu a opatrne (aby nenarazil na zločince) kráčel po námestí.
+OUT Klidne dojídal svačinu, když tu náhle ... dostal žízeň. Vytáhl tedy z kapsy
+OUT láhev s čajem a pomalu se napil. Zezadu uslyšel nejaké šustení. "No jo,
+OUT zase nejakej bezdomovec," pomyslel si. A to byla jeho poslední chyba v
+OUT živote. Vlastne ne, ta poslední byla, že se nedal rychle na íprk. Stihl se
+OUT ješte otočit, aby videl jak se k nemu velkou rychlostí pšesunuje neco, co
+OUT nikdy v živote nevidel. Bylo to o neco vetší než človek, tvar to melo asi
+OUT jako yeti, bylo to zelené, kapal z toho sliz a bylo to voškliví.
+OUT Neohroženému obránci zákona by toto stvošení nevadilo, kdyby se nalézalo
+OUT alespoň v jiné části mesta, jenže když bylo tady (a s ním), situace se
+OUT ukázala bít velmi nepšíjemnou. Pširozené obranné reflexy donutily policistu
+OUT vytáhnout služební zbraň. Sáhl tedy pro ni, ale ouha pistoli dal pšece
+OUT na hraní svému synkovi. Poté už policista jenom videl, jak se na nej to
+OUT stvošení vrhlo. Aáááááááá !!!
+PRESSKEY
+
+CLS
+OUT Ústšedí FBA (Federal Bureau for Adventures)
+OUT Washington, D.C.
+OUT 10:25, 11. dubna
+OUT
+OUT  Když Jana vešla do kanceláše, videla Freddyho, jak se sklání nad fotografií
+OUT a prohlíží si ji lupou. Zavšela dveše tak, aby ji určite slyšel, ale on jí
+OUT nevenoval žádnou pozornost a dál se zabíval fotkou. Pšišla tedy blíž ke
+OUT stolu a promluvila: "Nazdar Freddy, máme další pšípad. A co to vľbec máš
+OUT na té fotce ?" Freddy s pozdravem otočil fotku, aby se mohla Jana podívat a
+OUT oznámil jí: "Tohle jsem včera vyfotil u jezera. Vidíš tady to," ukázal na
+OUT dve šmouhy uprostšed fotky, "tak to je UFO."
+PRESSKEY
+
+CLS
+OUT  Jana se pousmála jeho pšesvedčení a podala mu složku, která byla označena
+OUT MuP. Freddy složku otevšel a Jana mu začala vysvetlovat. "Tady je zabití
+OUT policista," odstranila ze stolu fotku UFO a položila tam fotku ze složky,
+OUT "A tady.. další.. tši." V pauzách mezi slovy položila na stľl další tši
+OUT fotky. Lidé na fotkách byly mrtví (to je pochopitelné, ne), ale byli tak
+OUT znetvošení, že skoro nešlo poznat, že se jedná o lidi. Všichni leželi
+OUT divne pokroucení, nekteší meli utržené končetiny jiní je meli hodne
+OUT pokroucené, ale všichni meli rozdrcené kosti témeš v celém tele. Všichni
+OUT byli oblepení podivním slizem a meli vyrvané vnitšnosti.
+PRESSKEY
+
+CLS
+OUT  "To je přece MuP (Mutoidní Pšíšera). Slyšel jsem o nekolika takovích
+OUT pšípadech, ale poslední asi pšed šedesáti lety. Kde se odehráli tyhle
+OUT vraždy ?" vychrlil Freddy na Janu.
+OUT  "Všechny se odehráli v...," Jana musela nahlédnout do záznamľ, "v české
+OUT Republice. Prvního zabil 7. dubna ve Vítkovickích železárnách v Ostrave,
+OUT druhého 8. dubna v Bartovicích. Tšetího zabil 9. dubna v Ťenove. A tohoto
+OUT policistu 10. dubna v...," opet musela nahlédnout do složky, "v Horníkove..,"
+OUT rychlé nahlédnutí do složky, "ne, v Havíšove. Všechny vraždy se odehráli
+OUT ve večerních hodinách."
+OUT  Freddy pohlédl na hodinky. "Rychle, musíme tam hned letet. Dnes večer se
+OUT totiž nejspíš odehraje další vražda. Kdy letí nejbližší letadlo ?"
+OUT "Za hodinu, letenky už mám." "Tak ač nepřijdem pozde."
+PRESSKEY
+
+CLS
+OUT letište Ostrava-Mošnov
+OUT 17:51, 11. dubna
+OUT
+OUT  Problémy pro Janu a Freddyho začaly hned po pšíletu. Policie je chtela
+OUT zatknout za nedovolené ozbrojování, toto se však za chvíli vysvetlilo.
+OUT Jenže pši vysvetlování se jim ztratily zavazadla. Ješte že meli doklady,
+OUT zbrane a peníze u sebe. Cesta do Havíšova probehla, až na pár pokut za
+OUT rychlou jízdu, vcelku klidne. Jenže, když dojeli do Havíšova, stala se
+OUT velmi nemilá vec - auto vypovedelo službu (pozdeji pšišli na to, že jim
+OUT nekdo ukradl motor a poslední tši kilometry jeli setrvačností). Auto tedy
+OUT dali do opravny, ale na místo činu se museli dopravit pšeplnenou mestskou
+OUT hromadnou dopravou. A poslední problém nastal, když po vystoupení zjistili,
+OUT že je nekdo okradl íplne. Zbrane, doklady, peníze - všechno je pryč.
+PRESSKEY
+
+CLS
+SETTEXTCOLOR 128 128 128 
+OUT  Vítejte u této nové hry !
+OUT
+OUT  Jsi-li hráč chápající, určite jsi pochopil, že se ocitáš v roli dvou
+OUT tajních agentľ, kteší zľstali íplne bez prostšedkľ v cizí zemi a ješte
+OUT navíc musí vyšešit dost šílení pšípad.
+OUT  Ovládání hry je velmi jednoduché. Ve spodní části obrazovky jsou vypsány
+OUT pšíkazy. Pši stisknutí odpovídající klávesy se objeví možnosti, ze kterích
+OUT si mľžeš vybrat.
+OUT  Tato hra je rozdelena do tší částí. V části první, která práve začíná,
+OUT je Tvím íkolem získat peníze, bez kterích se neobejdeš.
+OUT  P.S.: Ješte jedna rada. Zkus se všude, kam přijdeš, porozhlédnout a s nekím
+OUT si popovídat. Nekdy to nesouvisí s hrou, ale je to sranda.
+PRESSKEY
+
+SETMIESTO namestie
+
+MIESTO namestie
+
+CLS
+SOUND sound.mid
+SETTEXTCOLOR 0 255 0 
+OUT Stojíš na námestí, které se honosí jménem nám. T.G. Masaryka. Uprostšed
+OUT námestí je vetší vybetonovaná plocha, kolem které se nachází zeleň ve
+OUT značne zuboženém stavu. Nachází se zde zastávka MHD, na které stojí dav
+OUT lidí domáhajících se autobusu. Okolo námestí jsou domy a samozšejme také
+OUT obchody. Vidíš zde nekolik lidí, kteší se dobívají do aut - nekteší i do
+OUT svích. Za povšimnutí stojí mrtvola, která leží pár krokí od tebe. Je to
+OUT poslední obeť toho šíleného zabijáka. Na východ se nachází ulice, která
+OUT vypadá jako zajímavá.
+
+SETMAINMENU ist pozri oslov zober pouzi podaj zoznam_veci
+
+ADDMENU ist ulica
+ADDMENU pozri mrtvolu
+(:kluc==1)ADDMENU zober kluc 
+
+COMMAND ist ulica
+ SETMIESTO ulica
+ENDCOMMAND
+
+COMMAND pozri mrtvolu
+ CLS
+
+ (:kluc==0)OUT Je to policista. Jeho telo je značne znetvošeno slizem a tím, že má všechny
+ (:kluc==0)OUT kosti rozlámané. Když jsi ho chtel otočit, vypadl mu z kapsy klíč.
+ (:kluc!=0)OUT Je to policista. Jeho telo je značne znetvošeno slizem a tím, že má všechny
+ (:kluc!=0)OUT kosti rozlámané.
+ (:kluc==0)ZMEN :kluc 1
+
+ PRESSKEY
+ SETMIESTO namestie
+ENDCOMMAND
+
+COMMAND zober kluc
+ CLS
+
+ OUT ze se nestydíš, jak se asi dostane domí ?!
+ ZMEN :kluc 2
+
+ PRESSKEY
+ SETMIESTO namestie
+ENDCOMMAND
+ 
+MIESTO ulica
+
+CLS
+SOUND sound.mid
+SETTEXTCOLOR 0 255 0 
+OUT Na jedné strane ulice je malé parkovište, které bohužel nevyhovuje počtu
+OUT aut, takže nekterá auta parkují na všech možních místech. Na strane druhé
+OUT vidíš dím. Tento dím je jeden z prvních v této čtvrti a je to na nem
+OUT videt. Kdysi žlutá omítka je nyní spíše hnedá a stejne už je skoro opadaná.
+OUT Vidíš díchodce, kterí se snaží udržovat trávníček pšed domem, bohužel
+OUT neíspešne.
+
+SETMAINMENU ist pozri oslov zober pouzi podaj zoznam_veci
+
+ADDMENU ist namestie
+ADDMENU ist do_domu
+ADDMENU oslov stary_dedko
+(:kluc==2)ADDMENU pouzi kluc
+
+COMMAND ist namestie
+ SETMIESTO namestie
+ENDCOMMAND
+
+COMMAND ist do_domu
+ (:kluc!=3)OUT Chtel jsi vejít dovnitš, ale neco te zarazilo. Chvíli jsi nechápave hledel,
+ (:kluc!=3)OUT ale pak jsi na to pšišel. Tady se zamykají i vchody do domu.
+ 
+ (:kluc==3)OUT Koniec dema.
+ PRESSKEY
+ (:kluc==3)END
+ 
+ SETMIESTO ulica
+ENDCOMMAND
+
+COMMAND oslov stary_dedko
+ CLS
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: Dobrý den.
+
+ SETTEXTCOLOR 0 128 0
+ OUT Díchodce: Taky, taky.
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: Vy tady bydlíte ?
+ SETTEXTCOLOR 0 128 0
+ OUT Díchodce: Jo, jo. A jakpak se jmenuješ, hochu ?
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: Freddy.
+ 
+ SETTEXTCOLOR 0 128 0
+ OUT Dúchodce: Tak jo, Ferdíku.
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: Máte tu docela hnusní dím.
+ 
+ SETTEXTCOLOR 0 128 0
+ OUT Dúchodce: Jo, jo.
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: A máte v nem aspoň vítah ?
+ 
+ SETTEXTCOLOR 0 128 0
+ OUT Dúchodce: Jo, jo. Ale já té nové technice neveším.
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: A nevidel jste tady nekoho podezšelého ?
+ 
+ SETTEXTCOLOR 0 128 0
+ OUT Dúchodce: Ne, ne.
+ 
+ SETTEXTCOLOR 128 255 128
+ OUT Ty: Tak nashledanou.
+ 
+ SETTEXTCOLOR 0 128 0
+ OUT Dúchodce: Taky, taky.
+ 
+ PRESSKEY
+ SETMIESTO ulica
+ENDCOMMAND
+
+COMMAND pouzi kluc
+ CLS
+ OUT Chvíli jsi hrabal po kapsách, ale nakonec jsi klíč našel. Rychle, aby ti
+ OUT ho nekdo neukradl, jsi klíč strčil do zámku a otočil s ním. No ne, teâ už
+ OUT se dveře dají otevšít.
+ ZMEN :kluc 3
+
+ PRESSKEY
+ SETMIESTO ulica
+ENDCOMMAND
+ 
+ALL
+ (:kluc==2)ADDMENU zoznam_veci kluc
+
+ COMMAND zoznam_veci kluc
+  CLS
+  OUT Je to úplne obyčejní klíč. To znamená, že se s ním dá odemknout zámek.
+
+  PRESSKEY
+  SETMIESTO ulica 
+ ENDCOMMAND
+ENDALL
