@@ -2,6 +2,7 @@ target/**
 
 ## IDEs
 .idea/**
+*.iml
 .eclipse/**
 .netbeans/**
 
